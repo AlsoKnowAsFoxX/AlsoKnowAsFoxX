@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @AlsoKnowAsFoxX
+Also Know As FoxX
 
-<!---
-AlsoKnowAsFoxX/AlsoKnowAsFoxX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Learning Everyday
+- Personal Projects
+- Hacking Enthusiast
